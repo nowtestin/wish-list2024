@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="ced9c629c3da42100515d71d050131bf" sys_domain="global" table="x_846092_wish_list_wish_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-21 02:42:07</sys_created_on>
+            <sys_id>9ed9c629c3da42100515d71d050131f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_846092_wish_list_wish_item" sys_domain="global" view="Default view">ced9c629c3da42100515d71d050131bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-21 02:42:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-21 02:42:07</sys_created_on>
+            <sys_id>16d9c629c3da42100515d71d050131f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_846092_wish_list_wish_item" sys_domain="global" view="Default view">ced9c629c3da42100515d71d050131bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-21 02:42:07</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-21 02:42:07</sys_created_on>
+            <sys_id>9ad9c629c3da42100515d71d050131f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_846092_wish_list_wish_item" sys_domain="global" view="Default view">ced9c629c3da42100515d71d050131bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-21 02:42:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_846092_wish_list_wish_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-21 02:42:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ced9c629c3da42100515d71d050131bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_846092_wish_list_wish_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wish List" source="x_846092_wish_list">756abd25c39a42100515d71d0501310a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">756abd25c39a42100515d71d0501310a</sys_scope>
+            <sys_update_name>sys_ui_section_ced9c629c3da42100515d71d050131bf</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-21 02:42:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">756abd25c39a42100515d71d0501310a</application>
+        <file_path/>
+        <instance_id>f84aa4ab1b2d4e9865324089bd4bcb9b</instance_id>
+        <instance_name>dev260694</instance_name>
+        <name>sys_ui_section_ced9c629c3da42100515d71d050131bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="ced9c629c3da42100515d71d050131bf" sys_domain="global" table="x_846092_wish_list_wish_item" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>requester</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-21 02:42:07</sys_created_on><sys_id>9ed9c629c3da42100515d71d050131f6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_846092_wish_list_wish_item" sys_domain="global" view="Default view">ced9c629c3da42100515d71d050131bf</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-21 02:42:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-21 02:42:07</sys_created_on><sys_id>16d9c629c3da42100515d71d050131f7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_846092_wish_list_wish_item" sys_domain="global" view="Default view">ced9c629c3da42100515d71d050131bf</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-21 02:42:07</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>quantity</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-21 02:42:07</sys_created_on><sys_id>9ad9c629c3da42100515d71d050131f7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_846092_wish_list_wish_item" sys_domain="global" view="Default view">ced9c629c3da42100515d71d050131bf</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-21 02:42:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_846092_wish_list_wish_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-21 02:42:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ced9c629c3da42100515d71d050131bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_846092_wish_list_wish_item</sys_name><sys_overrides/><sys_package display_value="Wish List" source="x_846092_wish_list">756abd25c39a42100515d71d0501310a</sys_package><sys_policy/><sys_scope display_value="Wish List">756abd25c39a42100515d71d0501310a</sys_scope><sys_update_name>sys_ui_section_ced9c629c3da42100515d71d050131bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-21 02:42:05</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>861945447</payload_hash>
+        <record_name> Wish Item</record_name>
+        <reverted_from/>
+        <source>86cdf569c39a42100515d71d05013165</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-21 02:42:07</sys_created_on>
+        <sys_id>9ad9c629c3da42100515d71d050131f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f99070d380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-21 02:42:07</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>12d9c62975da4210212cf662f846a4f9</update_guid>
+        <update_guid_history>12d9c62975da4210212cf662f846a4f9:861945447</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-21 02:45:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>3aa958afffee4808b9df2bbc13d74104</sys_id>
+        <sys_metadata>ced9c629c3da42100515d71d050131bf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Wish List" source="x_846092_wish_list">756abd25c39a42100515d71d0501310a</sys_package>
+        <sys_parent display_value=" Wish Item">9bfafd65c39a42100515d71d05013124</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">756abd25c39a42100515d71d0501310a</sys_scope>
+        <sys_scope_delete display_value="">4328b63e6df746d8a01718f90e075190</sys_scope_delete>
+        <sys_update_name>sys_ui_section_ced9c629c3da42100515d71d050131bf</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_ced9c629c3da42100515d71d050131bf">9ad9c629c3da42100515d71d050131f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-21 02:45:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
